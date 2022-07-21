@@ -1,0 +1,10 @@
+label{
+    font-family: "League Spartan", sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+label input{
+    background-color: aqua;
+    margin-right: 10px;
+}
